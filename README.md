@@ -1,3 +1,12 @@
-This is a repository for the Quality Model via Quality Model Diagram. Brief welcome is in [here](./docs/qmdocs/QualityModelDiagram.pdf),
-full RFC is [here](./docs/qmdocs/Index%20RFC.md).
+This is a repository for the Quality Model via Quality Model Diagram.
+Full RFC is available [here](./docs/qmdocs/Index%20RFC.md).
+
+This is the brief onboarding.
+![](./docs/qmdocs/images/QMD%20Diagram.png)
+
+And the idea behind it.
+![](./docs/./qmdocs/images/QMD-idea-1.png)
+![](./docs/./qmdocs/images/QMD-idea-2.png)
+![](./docs/./qmdocs/images/QMD-idea-3.png)
+
 

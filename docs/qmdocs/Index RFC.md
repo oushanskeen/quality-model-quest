@@ -61,7 +61,7 @@ focus and whether changes are effective.
 
 ### Required
 **SR-RQ01**: Hierarchy
-**SR-RQ02**: [[Quality Model Questionnaire]]  
+**SR-RQ02**: [Quality Model Questionnaire](./Quality%20Model%20Questionnaire.md) 
 **SR-RQ03**: Dimensions
 **SR-RQ04**: Normalized Signals
 **SR-RQ05**: Viability Bounds

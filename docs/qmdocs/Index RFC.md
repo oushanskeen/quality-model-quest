@@ -74,7 +74,7 @@ focus and whether changes are effective.
 ---
 ## 4. Rationale: Why this approach? #rules  
 
-**With QMD**, viability is explicitly defined and agreed, and impact [9] is modeled and traceable.
+**With QMD**, viability is explicitly defined and agreed, and impact is modeled and traceable.
 **Without QMD** (i.e. without quality model) only behavior agreements (how systems should act) as tests and change agreements (implementation plan) as tickets are available. No viability constraints (operational bounds defining system health) and  no impact agreements (how changes affect quality). No system-level quality view as a result.
 
 **Quality Model Rationale**
